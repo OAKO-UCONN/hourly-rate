@@ -13,4 +13,5 @@ while indicator == 0:
         indicator = 1
     except:
         print('Please enter a number next time.')
-        
+
+print('We are done.')
